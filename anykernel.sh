@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Wild Kernels by TheWildJames aka Morgan Weedman
+kernel.string=VenGeance+ by t.me/kAiF_00z For sky (Redmi 12 5G / Poco M6 Pro 5G / Redmi Note 12R)
 do.devicecheck=0
 do.modules=1
 do.systemless=0
